@@ -1,8 +1,8 @@
-# English-News
+# 2026-
 
 ---
 ## Today News (100 words)
-## [Topic] (1 sentence)
+## [Topic]
 - 
 
 ---
@@ -14,7 +14,8 @@
 [日本語訳]
 
 ---
-## Vocabulary 
+## Vocabulary
+- 
 
 ---
 
@@ -25,11 +26,3 @@
 ## TOEIC-style Question [6, 7]
 
 
----
-## GitHub
-git add .
-git commit -m ""
-git push
-
----
-## Note -> X
