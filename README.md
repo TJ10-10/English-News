@@ -1,12 +1,12 @@
 # English-News
 
 ---
-## Today News (100 words)
+## Today News
 ## [Topic] (1 sentence)
 - 
 
 ---
-## English Text
+## English Text (100 words)
 [本文]
 
 ---
